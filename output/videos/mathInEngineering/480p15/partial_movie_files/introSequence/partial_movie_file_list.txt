@@ -1,3 +1,6 @@
 file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/introSequence/00000.mp4'
 file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/introSequence/00001.mp4'
 file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/introSequence/00002.mp4'
+file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/introSequence/00003.mp4'
+file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/introSequence/00004.mp4'
+file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/introSequence/00005.mp4'
