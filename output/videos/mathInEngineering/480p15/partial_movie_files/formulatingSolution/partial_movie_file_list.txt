@@ -1,2 +1,7 @@
 file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/formulatingSolution/00000.mp4'
 file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/formulatingSolution/00001.mp4'
+file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/formulatingSolution/00002.mp4'
+file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/formulatingSolution/00003.mp4'
+file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/formulatingSolution/00004.mp4'
+file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/formulatingSolution/00005.mp4'
+file '/Users/jare/Documents/GitHub/manim/output/videos/mathInEngineering/480p15/partial_movie_files/formulatingSolution/00006.mp4'
